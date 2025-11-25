@@ -1,5 +1,6 @@
 #include "pch.h"
 #include "Render.h"
+#include "RenderingTools/Objects/Circle.h"
 
 LinearColor mapColor(20, 20, 20, 150);
 LinearColor ballBorderColor(200, 200, 200, 255);
