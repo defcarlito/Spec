@@ -1,3 +1,6 @@
 [submodule "RenderingTools"]
 	path = RenderingTools
 	url = https://github.com/CinderBlocc/RenderingTools
+[submodule "Spec/RenderingTools"]
+	path = Spec/RenderingTools
+	url = https://github.com/CinderBlocc/RenderingTools
