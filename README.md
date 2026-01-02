@@ -11,5 +11,5 @@ BakkesMod, as the name suggests, is a mod for the game made by Chris Bakkes. It 
 This plugin extends the replay system by providing additional features such as:
 - A minimap for a bird's-eye view of the field
     - View the location of the ball and all players as they move around the field
-- A widget to view the live boost counts for all players
+- A widget to view the live boost amounts of all players
 - An option to toggle line markers between teammates for team shape analyzation
